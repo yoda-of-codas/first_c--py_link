@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="testpythoncall" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/testpythoncall" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="/usr/include/python3.8" />
+					<Add directory="/root/Downloads/EmbeddedPython3/inc" />
+					<Add directory="/root/Downloads/EmbeddedPython3/include" />
+				</Compiler>
+				<Linker>
+					<Add directory="/usr/lib/python3.8/" />
+					<Add directory="/root/Downloads/EmbeddedPython3/lib/" />
+					<Add directory="/root/Downloads/EmbeddedPython3/lib/python34.lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/testpythoncall" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="/root/Downloads/EmbeddedPython3/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="/root/Downloads/EmbeddedPython3/lib/python34.lib" />
+					<Add directory="/root/Downloads/EmbeddedPython3/lib" />
+					<Add directory="/usr/lib/x86_64-linux-gnu/" />
+					<LinkerExe value="Linker" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="main.cpp" />
+		<Unit filename="nice.py" />
+		<Unit filename="sample.py" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

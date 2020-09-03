@@ -1,0 +1,869 @@
+# depslib dependency file v1.0
+1567518508 source:/root/Desktop/testpythoncall/main.cpp
+	<Python.h>
+
+1595269964 /usr/include/python3.8/Python.h
+	"patchlevel.h"
+	"pyconfig.h"
+	"pymacconfig.h"
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<unistd.h>
+	<crypt.h>
+	<stddef.h>
+	<assert.h>
+	"pyport.h"
+	"pymacro.h"
+	"pymath.h"
+	"pytime.h"
+	"pymem.h"
+	"object.h"
+	"objimpl.h"
+	"typeslots.h"
+	"pyhash.h"
+	"pydebug.h"
+	"bytearrayobject.h"
+	"bytesobject.h"
+	"unicodeobject.h"
+	"longobject.h"
+	"longintrepr.h"
+	"boolobject.h"
+	"floatobject.h"
+	"complexobject.h"
+	"rangeobject.h"
+	"memoryobject.h"
+	"tupleobject.h"
+	"listobject.h"
+	"dictobject.h"
+	"odictobject.h"
+	"enumobject.h"
+	"setobject.h"
+	"methodobject.h"
+	"moduleobject.h"
+	"funcobject.h"
+	"classobject.h"
+	"fileobject.h"
+	"pycapsule.h"
+	"traceback.h"
+	"sliceobject.h"
+	"cellobject.h"
+	"iterobject.h"
+	"genobject.h"
+	"descrobject.h"
+	"warnings.h"
+	"weakrefobject.h"
+	"structseq.h"
+	"namespaceobject.h"
+	"picklebufobject.h"
+	"codecs.h"
+	"pyerrors.h"
+	"cpython/initconfig.h"
+	"pystate.h"
+	"context.h"
+	"pyarena.h"
+	"modsupport.h"
+	"compile.h"
+	"pythonrun.h"
+	"pylifecycle.h"
+	"ceval.h"
+	"sysmodule.h"
+	"osmodule.h"
+	"intrcheck.h"
+	"import.h"
+	"abstract.h"
+	"bltinmodule.h"
+	"eval.h"
+	"pyctype.h"
+	"pystrtod.h"
+	"pystrcmp.h"
+	"dtoa.h"
+	"fileutils.h"
+	"pyfpe.h"
+	"tracemalloc.h"
+
+1595269964 /usr/include/python3.8/patchlevel.h
+
+1595269964 /usr/include/python3.8/pyconfig.h
+	<x86_64-linux-gnu/python3.8/pyconfig.h>
+	<x86_64-linux-gnux32/python3.8/pyconfig.h>
+	<i386-linux-gnu/python3.8/pyconfig.h>
+	<aarch64-linux-gnu/python3.8/pyconfig.h>
+	<alpha-linux-gnu/python3.8/pyconfig.h>
+	<arm-linux-gnueabihf/python3.8/pyconfig.h>
+	<arm-linux-gnueabi/python3.8/pyconfig.h>
+	<hppa-linux-gnu/python3.8/pyconfig.h>
+	<ia64-linux-gnu/python3.8/pyconfig.h>
+	<m68k-linux-gnu/python3.8/pyconfig.h>
+	<mipsisa32r6el-linux-gnu/python3.8/pyconfig.h>
+	<mipsisa64r6el-linux-gnuabin32/python3.8/pyconfig.h>
+	<mipsisa64r6el-linux-gnuabi64/python3.8/pyconfig.h>
+	<mipsisa32r6-linux-gnu/python3.8/pyconfig.h>
+	<mipsisa64r6-linux-gnuabin32/python3.8/pyconfig.h>
+	<mipsisa64r6-linux-gnuabi64/python3.8/pyconfig.h>
+	<mipsel-linux-gnu/python3.8/pyconfig.h>
+	<mips64el-linux-gnuabin32/python3.8/pyconfig.h>
+	<mips64el-linux-gnuabi64/python3.8/pyconfig.h>
+	<mips-linux-gnu/python3.8/pyconfig.h>
+	<mips64-linux-gnuabin32/python3.8/pyconfig.h>
+	<mips64-linux-gnuabi64/python3.8/pyconfig.h>
+	<or1k-linux-gnu/python3.8/pyconfig.h>
+	<powerpc-linux-gnuspe/python3.8/pyconfig.h>
+	<powerpc64le-linux-gnu/python3.8/pyconfig.h>
+	<powerpc64-linux-gnu/python3.8/pyconfig.h>
+	<powerpc-linux-gnu/python3.8/pyconfig.h>
+	<s390x-linux-gnu/python3.8/pyconfig.h>
+	<s390-linux-gnu/python3.8/pyconfig.h>
+	<sh4-linux-gnu/python3.8/pyconfig.h>
+	<sparc64-linux-gnu/python3.8/pyconfig.h>
+	<sparc-linux-gnu/python3.8/pyconfig.h>
+	<riscv64-linux-gnu/python3.8/pyconfig.h>
+	<riscv32-linux-gnu/python3.8/pyconfig.h>
+	<x86_64-kfreebsd-gnu/python3.8/pyconfig.h>
+	<i386-kfreebsd-gnu/python3.8/pyconfig.h>
+	<i386-gnu/python3.8/pyconfig.h>
+
+1595269964 /usr/include/python3.8/pymacconfig.h
+
+1595269964 /usr/include/python3.8/pyport.h
+	"pyconfig.h"
+	<inttypes.h>
+	<stdlib.h>
+	<ieeefp.h>
+	<math.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<sys/select.h>
+	<sys/stat.h>
+	<stat.h>
+	<sys/types.h>
+	<sys/termio.h>
+	<ctype.h>
+	<wctype.h>
+
+1595269964 /usr/include/python3.8/pymacro.h
+
+1595269964 /usr/include/python3.8/pymath.h
+	"pyconfig.h"
+
+1595269964 /usr/include/python3.8/pytime.h
+	"pyconfig.h"
+	"object.h"
+
+1595269964 /usr/include/python3.8/object.h
+	"pymem.h"
+	"cpython/object.h"
+
+1595269964 /usr/include/python3.8/pymem.h
+	"pyport.h"
+	"cpython/pymem.h"
+
+1595269964 /usr/include/python3.8/cpython/pymem.h
+
+1595269964 /usr/include/python3.8/cpython/object.h
+
+1595269964 /usr/include/python3.8/objimpl.h
+	"pymem.h"
+	"cpython/objimpl.h"
+
+1595269964 /usr/include/python3.8/cpython/objimpl.h
+
+1595269964 /usr/include/python3.8/typeslots.h
+
+1595269964 /usr/include/python3.8/pyhash.h
+
+1595269964 /usr/include/python3.8/pydebug.h
+
+1595269964 /usr/include/python3.8/bytearrayobject.h
+	<stdarg.h>
+
+1595269964 /usr/include/python3.8/bytesobject.h
+	<stdarg.h>
+
+1595269964 /usr/include/python3.8/unicodeobject.h
+	<stdarg.h>
+	<ctype.h>
+	<wchar.h>
+	"cpython/unicodeobject.h"
+
+1595269964 /usr/include/python3.8/cpython/unicodeobject.h
+
+1595269964 /usr/include/python3.8/longobject.h
+
+1595269964 /usr/include/python3.8/longintrepr.h
+
+1595269964 /usr/include/python3.8/boolobject.h
+
+1595269964 /usr/include/python3.8/floatobject.h
+
+1595269964 /usr/include/python3.8/complexobject.h
+
+1595269964 /usr/include/python3.8/rangeobject.h
+
+1595269964 /usr/include/python3.8/memoryobject.h
+
+1595269964 /usr/include/python3.8/tupleobject.h
+	"cpython/tupleobject.h"
+
+1595269964 /usr/include/python3.8/cpython/tupleobject.h
+
+1595269964 /usr/include/python3.8/listobject.h
+
+1595269964 /usr/include/python3.8/dictobject.h
+	"cpython/dictobject.h"
+
+1595269964 /usr/include/python3.8/cpython/dictobject.h
+
+1595269964 /usr/include/python3.8/odictobject.h
+
+1595269964 /usr/include/python3.8/enumobject.h
+
+1595269964 /usr/include/python3.8/setobject.h
+
+1595269964 /usr/include/python3.8/methodobject.h
+
+1595269964 /usr/include/python3.8/moduleobject.h
+
+1595269964 /usr/include/python3.8/funcobject.h
+
+1595269964 /usr/include/python3.8/classobject.h
+
+1595269964 /usr/include/python3.8/fileobject.h
+	"cpython/fileobject.h"
+
+1595269964 /usr/include/python3.8/cpython/fileobject.h
+
+1595269964 /usr/include/python3.8/pycapsule.h
+
+1595269964 /usr/include/python3.8/traceback.h
+	"cpython/traceback.h"
+
+1595269964 /usr/include/python3.8/cpython/traceback.h
+
+1595269964 /usr/include/python3.8/sliceobject.h
+
+1595269964 /usr/include/python3.8/cellobject.h
+
+1595269964 /usr/include/python3.8/iterobject.h
+
+1595269964 /usr/include/python3.8/genobject.h
+	"pystate.h"
+
+1595269964 /usr/include/python3.8/pystate.h
+	"pythread.h"
+	"cpython/pystate.h"
+
+1595269964 /usr/include/python3.8/pythread.h
+	<pthread.h>
+
+1595269964 /usr/include/python3.8/cpython/pystate.h
+	"cpython/initconfig.h"
+
+1595269964 /usr/include/python3.8/cpython/initconfig.h
+
+1595269964 /usr/include/python3.8/descrobject.h
+
+1595269964 /usr/include/python3.8/warnings.h
+
+1595269964 /usr/include/python3.8/weakrefobject.h
+
+1595269964 /usr/include/python3.8/structseq.h
+
+1595269964 /usr/include/python3.8/namespaceobject.h
+
+1595269964 /usr/include/python3.8/picklebufobject.h
+
+1595269964 /usr/include/python3.8/codecs.h
+
+1595269964 /usr/include/python3.8/pyerrors.h
+	<stdarg.h>
+	"cpython/pyerrors.h"
+
+1595269964 /usr/include/python3.8/cpython/pyerrors.h
+
+1595269964 /usr/include/python3.8/context.h
+
+1595269964 /usr/include/python3.8/pyarena.h
+
+1595269964 /usr/include/python3.8/modsupport.h
+	<stdarg.h>
+
+1595269964 /usr/include/python3.8/compile.h
+	"code.h"
+
+1595269964 /usr/include/python3.8/code.h
+
+1595269964 /usr/include/python3.8/pythonrun.h
+
+1595269964 /usr/include/python3.8/pylifecycle.h
+	"cpython/pylifecycle.h"
+
+1595269964 /usr/include/python3.8/cpython/pylifecycle.h
+
+1595269964 /usr/include/python3.8/ceval.h
+
+1595269964 /usr/include/python3.8/sysmodule.h
+	"cpython/sysmodule.h"
+
+1595269964 /usr/include/python3.8/cpython/sysmodule.h
+
+1595269964 /usr/include/python3.8/osmodule.h
+
+1595269964 /usr/include/python3.8/intrcheck.h
+
+1595269964 /usr/include/python3.8/import.h
+
+1595269964 /usr/include/python3.8/abstract.h
+	"cpython/abstract.h"
+
+1595269964 /usr/include/python3.8/cpython/abstract.h
+
+1595269964 /usr/include/python3.8/bltinmodule.h
+
+1595269964 /usr/include/python3.8/eval.h
+
+1595269964 /usr/include/python3.8/pyctype.h
+
+1595269964 /usr/include/python3.8/pystrtod.h
+
+1595269964 /usr/include/python3.8/pystrcmp.h
+
+1595269964 /usr/include/python3.8/dtoa.h
+
+1595269964 /usr/include/python3.8/fileutils.h
+
+1595269964 /usr/include/python3.8/pyfpe.h
+
+1595269964 /usr/include/python3.8/tracemalloc.h
+
+1410811322 /root/Downloads/EmbeddedPython3/inc/pyhelper.hpp
+	<Python.h>
+
+1571528182 /usr/include/python2.7/Python.h
+	"patchlevel.h"
+	"pyconfig.h"
+	"pymacconfig.h"
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<unistd.h>
+	<crypt.h>
+	<stddef.h>
+	<assert.h>
+	"pyport.h"
+	"pymath.h"
+	"pymem.h"
+	"object.h"
+	"objimpl.h"
+	"pydebug.h"
+	"unicodeobject.h"
+	"intobject.h"
+	"boolobject.h"
+	"longobject.h"
+	"floatobject.h"
+	"complexobject.h"
+	"rangeobject.h"
+	"stringobject.h"
+	"memoryobject.h"
+	"bufferobject.h"
+	"bytesobject.h"
+	"bytearrayobject.h"
+	"tupleobject.h"
+	"listobject.h"
+	"dictobject.h"
+	"enumobject.h"
+	"setobject.h"
+	"methodobject.h"
+	"moduleobject.h"
+	"funcobject.h"
+	"classobject.h"
+	"fileobject.h"
+	"cobject.h"
+	"pycapsule.h"
+	"traceback.h"
+	"sliceobject.h"
+	"cellobject.h"
+	"iterobject.h"
+	"genobject.h"
+	"descrobject.h"
+	"warnings.h"
+	"weakrefobject.h"
+	"codecs.h"
+	"pyerrors.h"
+	"pystate.h"
+	"pyarena.h"
+	"modsupport.h"
+	"pythonrun.h"
+	"ceval.h"
+	"sysmodule.h"
+	"intrcheck.h"
+	"import.h"
+	"abstract.h"
+	"compile.h"
+	"eval.h"
+	"pyctype.h"
+	"pystrtod.h"
+	"pystrcmp.h"
+	"dtoa.h"
+	"pyfpe.h"
+	<pth.h>
+
+1571528182 /usr/include/python2.7/patchlevel.h
+
+1571528182 /usr/include/python2.7/pyconfig.h
+	<x86_64-linux-gnu/python2.7/pyconfig.h>
+	<x86_64-linux-gnux32/python2.7/pyconfig.h>
+	<i386-linux-gnu/python2.7/pyconfig.h>
+	<aarch64_ilp32-linux-gnu/python2.7/pyconfig.h>
+	<aarch64-linux-gnu/python2.7/pyconfig.h>
+	<aarch64_be_ilp32-linux-gnu/python2.7/pyconfig.h>
+	<aarch64_be-linux-gnu/python2.7/pyconfig.h>
+	<alpha-linux-gnu/python2.7/pyconfig.h>
+	<arm-linux-gnueabihf/python2.7/pyconfig.h>
+	<armeb-linux-gnueabihf/python2.7/pyconfig.h>
+	<arm-linux-gnueabi/python2.7/pyconfig.h>
+	<armeb-linux-gnueabi/python2.7/pyconfig.h>
+	<hppa-linux-gnu/python2.7/pyconfig.h>
+	<ia64-linux-gnu/python2.7/pyconfig.h>
+	<m68k-linux-gnu/python2.7/pyconfig.h>
+	<mipsisa32r6el-linux-gnu/python2.7/pyconfig.h>
+	<mipsisa64r6el-linux-gnuabin32/python2.7/pyconfig.h>
+	<mipsisa64r6el-linux-gnuabi64/python2.7/pyconfig.h>
+	<mipsisa32r6-linux-gnu/python2.7/pyconfig.h>
+	<mipsisa64r6-linux-gnuabin32/python2.7/pyconfig.h>
+	<mipsisa64r6-linux-gnuabi64/python2.7/pyconfig.h>
+	<mipsel-linux-gnu/python2.7/pyconfig.h>
+	<mips64el-linux-gnuabin32/python2.7/pyconfig.h>
+	<mips64el-linux-gnuabi64/python2.7/pyconfig.h>
+	<mips-linux-gnu/python2.7/pyconfig.h>
+	<mips64-linux-gnuabin32/python2.7/pyconfig.h>
+	<mips64-linux-gnuabi64/python2.7/pyconfig.h>
+	<or1k-linux-gnu/python2.7/pyconfig.h>
+	<powerpc-linux-gnuspe/python2.7/pyconfig.h>
+	<powerpc64le-linux-gnu/python2.7/pyconfig.h>
+	<powerpc64-linux-gnu/python2.7/pyconfig.h>
+	<powerpc-linux-gnu/python2.7/pyconfig.h>
+	<s390x-linux-gnu/python2.7/pyconfig.h>
+	<s390-linux-gnu/python2.7/pyconfig.h>
+	<sh4-linux-gnu/python2.7/pyconfig.h>
+	<sparc64-linux-gnu/python2.7/pyconfig.h>
+	<sparc-linux-gnu/python2.7/pyconfig.h>
+	<riscv64-linux-gnu/python2.7/pyconfig.h>
+	<riscv32-linux-gnu/python2.7/pyconfig.h>
+	<x86_64-kfreebsd-gnu/python2.7/pyconfig.h>
+	<i386-kfreebsd-gnu/python2.7/pyconfig.h>
+	<i386-gnu/python2.7/pyconfig.h>
+
+1571528182 /usr/include/python2.7/pymacconfig.h
+
+1571528182 /usr/include/python2.7/pyport.h
+	"pyconfig.h"
+	<inttypes.h>
+	<stdint.h>
+	<stdlib.h>
+	<ieeefp.h>
+	<math.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<sys/select.h>
+	<sys/types.h>
+	"unixstuff.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<stat.h>
+	<sys/types.h>
+	<sys/termio.h>
+	<termios.h>
+	<osreldate.h>
+	<ctype.h>
+	<wctype.h>
+
+1571528182 /usr/include/python2.7/pymath.h
+	"pyconfig.h"
+
+1571528182 /usr/include/python2.7/pymem.h
+	"pyport.h"
+
+1571528182 /usr/include/python2.7/object.h
+
+1571528182 /usr/include/python2.7/objimpl.h
+	"pymem.h"
+
+1571528182 /usr/include/python2.7/pydebug.h
+
+1571528182 /usr/include/python2.7/unicodeobject.h
+	<stdarg.h>
+	<ctype.h>
+	<time.h>
+	<wchar.h>
+	<wctype.h>
+
+1571528182 /usr/include/python2.7/intobject.h
+
+1571528182 /usr/include/python2.7/boolobject.h
+
+1571528182 /usr/include/python2.7/longobject.h
+
+1571528182 /usr/include/python2.7/floatobject.h
+
+1571528182 /usr/include/python2.7/complexobject.h
+
+1571528182 /usr/include/python2.7/rangeobject.h
+
+1571528182 /usr/include/python2.7/stringobject.h
+	<stdarg.h>
+
+1571528182 /usr/include/python2.7/memoryobject.h
+
+1571528182 /usr/include/python2.7/bufferobject.h
+
+1571528182 /usr/include/python2.7/bytesobject.h
+
+1571528182 /usr/include/python2.7/bytearrayobject.h
+	<stdarg.h>
+
+1571528182 /usr/include/python2.7/tupleobject.h
+
+1571528182 /usr/include/python2.7/listobject.h
+
+1571528182 /usr/include/python2.7/dictobject.h
+
+1571528182 /usr/include/python2.7/enumobject.h
+
+1571528182 /usr/include/python2.7/setobject.h
+
+1571528182 /usr/include/python2.7/methodobject.h
+
+1571528182 /usr/include/python2.7/moduleobject.h
+
+1571528182 /usr/include/python2.7/funcobject.h
+
+1571528182 /usr/include/python2.7/classobject.h
+
+1571528182 /usr/include/python2.7/fileobject.h
+
+1571528182 /usr/include/python2.7/cobject.h
+
+1571528182 /usr/include/python2.7/pycapsule.h
+
+1571528182 /usr/include/python2.7/traceback.h
+
+1571528182 /usr/include/python2.7/sliceobject.h
+
+1571528182 /usr/include/python2.7/cellobject.h
+
+1571528182 /usr/include/python2.7/iterobject.h
+
+1571528182 /usr/include/python2.7/genobject.h
+
+1571528182 /usr/include/python2.7/descrobject.h
+
+1571528182 /usr/include/python2.7/warnings.h
+
+1571528182 /usr/include/python2.7/weakrefobject.h
+
+1571528182 /usr/include/python2.7/codecs.h
+
+1571528182 /usr/include/python2.7/pyerrors.h
+	<stdarg.h>
+
+1571528182 /usr/include/python2.7/pystate.h
+
+1571528182 /usr/include/python2.7/pyarena.h
+
+1571528182 /usr/include/python2.7/modsupport.h
+	<stdarg.h>
+
+1571528182 /usr/include/python2.7/pythonrun.h
+
+1571528182 /usr/include/python2.7/ceval.h
+
+1571528182 /usr/include/python2.7/sysmodule.h
+
+1571528182 /usr/include/python2.7/intrcheck.h
+
+1571528182 /usr/include/python2.7/import.h
+
+1571528182 /usr/include/python2.7/abstract.h
+
+1571528182 /usr/include/python2.7/compile.h
+	"code.h"
+
+1571528182 /usr/include/python2.7/code.h
+
+1571528182 /usr/include/python2.7/eval.h
+
+1571528182 /usr/include/python2.7/pyctype.h
+
+1571528182 /usr/include/python2.7/pystrtod.h
+
+1571528182 /usr/include/python2.7/pystrcmp.h
+
+1571528182 /usr/include/python2.7/dtoa.h
+
+1571528182 /usr/include/python2.7/pyfpe.h
+	<signal.h>
+	<setjmp.h>
+	<math.h>
+
+1385209200 /root/Downloads/EmbeddedPython3/include/Python.h
+	"patchlevel.h"
+	"pyconfig.h"
+	"pymacconfig.h"
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<unistd.h>
+	<stddef.h>
+	<assert.h>
+	"pyport.h"
+	"pymacro.h"
+	"pyatomic.h"
+	"pymath.h"
+	"pytime.h"
+	"pymem.h"
+	"object.h"
+	"objimpl.h"
+	"typeslots.h"
+	"pyhash.h"
+	"pydebug.h"
+	"bytearrayobject.h"
+	"bytesobject.h"
+	"unicodeobject.h"
+	"longobject.h"
+	"longintrepr.h"
+	"boolobject.h"
+	"floatobject.h"
+	"complexobject.h"
+	"rangeobject.h"
+	"memoryobject.h"
+	"tupleobject.h"
+	"listobject.h"
+	"dictobject.h"
+	"enumobject.h"
+	"setobject.h"
+	"methodobject.h"
+	"moduleobject.h"
+	"funcobject.h"
+	"classobject.h"
+	"fileobject.h"
+	"pycapsule.h"
+	"traceback.h"
+	"sliceobject.h"
+	"cellobject.h"
+	"iterobject.h"
+	"genobject.h"
+	"descrobject.h"
+	"warnings.h"
+	"weakrefobject.h"
+	"structseq.h"
+	"namespaceobject.h"
+	"codecs.h"
+	"pyerrors.h"
+	"pystate.h"
+	"pyarena.h"
+	"modsupport.h"
+	"pythonrun.h"
+	"ceval.h"
+	"sysmodule.h"
+	"intrcheck.h"
+	"import.h"
+	"abstract.h"
+	"bltinmodule.h"
+	"compile.h"
+	"eval.h"
+	"pyctype.h"
+	"pystrtod.h"
+	"pystrcmp.h"
+	"dtoa.h"
+	"fileutils.h"
+	"pyfpe.h"
+
+1400405624 /root/Downloads/EmbeddedPython3/include/patchlevel.h
+
+1398950468 /root/Downloads/EmbeddedPython3/include/pyconfig.h
+	<io.h>
+	<stdlib.h>
+	<float.h>
+	<basetsd.h>
+	<io.h>
+	<stdio.h>
+
+1332712094 /root/Downloads/EmbeddedPython3/include/pymacconfig.h
+
+1385319168 /root/Downloads/EmbeddedPython3/include/pyport.h
+	"pyconfig.h"
+	<inttypes.h>
+	<stdint.h>
+	<stdlib.h>
+	<ieeefp.h>
+	<math.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<sys/select.h>
+	<sys/stat.h>
+	<stat.h>
+	<sys/types.h>
+	<sys/termio.h>
+	<termios.h>
+	<osreldate.h>
+	<ctype.h>
+	<wctype.h>
+
+1388937510 /root/Downloads/EmbeddedPython3/include/pymacro.h
+
+1332712094 /root/Downloads/EmbeddedPython3/include/pyatomic.h
+	"dynamic_annotations.h"
+
+1332712092 /root/Downloads/EmbeddedPython3/include/dynamic_annotations.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/pymath.h
+	"pyconfig.h"
+
+1398950462 /root/Downloads/EmbeddedPython3/include/pytime.h
+	"pyconfig.h"
+	"object.h"
+
+1392057240 /root/Downloads/EmbeddedPython3/include/object.h
+
+1388834072 /root/Downloads/EmbeddedPython3/include/pymem.h
+	"pyport.h"
+
+1398950462 /root/Downloads/EmbeddedPython3/include/objimpl.h
+	"pymem.h"
+
+1332712094 /root/Downloads/EmbeddedPython3/include/typeslots.h
+
+1388834072 /root/Downloads/EmbeddedPython3/include/pyhash.h
+
+1378665312 /root/Downloads/EmbeddedPython3/include/pydebug.h
+
+1382292984 /root/Downloads/EmbeddedPython3/include/bytearrayobject.h
+	<stdarg.h>
+
+1378665312 /root/Downloads/EmbeddedPython3/include/bytesobject.h
+	<stdarg.h>
+
+1398950462 /root/Downloads/EmbeddedPython3/include/unicodeobject.h
+	<stdarg.h>
+	<ctype.h>
+	<time.h>
+	<wchar.h>
+
+1388663082 /root/Downloads/EmbeddedPython3/include/longobject.h
+
+1378665312 /root/Downloads/EmbeddedPython3/include/longintrepr.h
+
+1332712092 /root/Downloads/EmbeddedPython3/include/boolobject.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/floatobject.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/complexobject.h
+
+1332712094 /root/Downloads/EmbeddedPython3/include/rangeobject.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/memoryobject.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/tupleobject.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/listobject.h
+
+1388834072 /root/Downloads/EmbeddedPython3/include/dictobject.h
+
+1304773434 /root/Downloads/EmbeddedPython3/include/enumobject.h
+
+1380479942 /root/Downloads/EmbeddedPython3/include/setobject.h
+
+1363654052 /root/Downloads/EmbeddedPython3/include/methodobject.h
+
+1394396078 /root/Downloads/EmbeddedPython3/include/moduleobject.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/funcobject.h
+
+1332712092 /root/Downloads/EmbeddedPython3/include/classobject.h
+
+1382292984 /root/Downloads/EmbeddedPython3/include/fileobject.h
+
+1332712094 /root/Downloads/EmbeddedPython3/include/pycapsule.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/traceback.h
+	"pystate.h"
+
+1394396078 /root/Downloads/EmbeddedPython3/include/pystate.h
+
+1363654052 /root/Downloads/EmbeddedPython3/include/sliceobject.h
+
+1332712092 /root/Downloads/EmbeddedPython3/include/cellobject.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/iterobject.h
+
+1378665312 /root/Downloads/EmbeddedPython3/include/genobject.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/descrobject.h
+
+1388834072 /root/Downloads/EmbeddedPython3/include/warnings.h
+
+1382292986 /root/Downloads/EmbeddedPython3/include/weakrefobject.h
+
+1375566874 /root/Downloads/EmbeddedPython3/include/structseq.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/namespaceobject.h
+
+1392057240 /root/Downloads/EmbeddedPython3/include/codecs.h
+
+1392057240 /root/Downloads/EmbeddedPython3/include/pyerrors.h
+	<stdarg.h>
+
+1332712094 /root/Downloads/EmbeddedPython3/include/pyarena.h
+
+1390757168 /root/Downloads/EmbeddedPython3/include/modsupport.h
+	<stdarg.h>
+
+1388834072 /root/Downloads/EmbeddedPython3/include/pythonrun.h
+
+1332712092 /root/Downloads/EmbeddedPython3/include/ceval.h
+
+1388834072 /root/Downloads/EmbeddedPython3/include/sysmodule.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/intrcheck.h
+
+1388663082 /root/Downloads/EmbeddedPython3/include/import.h
+
+1398950462 /root/Downloads/EmbeddedPython3/include/abstract.h
+
+1332712092 /root/Downloads/EmbeddedPython3/include/bltinmodule.h
+
+1385319168 /root/Downloads/EmbeddedPython3/include/compile.h
+	"code.h"
+
+1343815514 /root/Downloads/EmbeddedPython3/include/code.h
+
+1332712092 /root/Downloads/EmbeddedPython3/include/eval.h
+
+1332712094 /root/Downloads/EmbeddedPython3/include/pyctype.h
+
+1332712094 /root/Downloads/EmbeddedPython3/include/pystrtod.h
+
+1332712094 /root/Downloads/EmbeddedPython3/include/pystrcmp.h
+
+1343815514 /root/Downloads/EmbeddedPython3/include/dtoa.h
+
+1388834072 /root/Downloads/EmbeddedPython3/include/fileutils.h
+
+1363654052 /root/Downloads/EmbeddedPython3/include/pyfpe.h
+	<signal.h>
+	<setjmp.h>
+	<math.h>
+

@@ -1,0 +1,1 @@
+g++ -Wall -o program main.cpp -lm -std=c++11 -O3 -I/usr/include/python2.7/ -L /usr/lib/x86_64-linux-gnu/ -lpython2.7
